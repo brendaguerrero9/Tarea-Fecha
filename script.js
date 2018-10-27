@@ -1,6 +1,6 @@
 var usuario = {
     nombre: "Brenda Guerrero",
-    cumple: new Date(1998, 21, 10)
+    cumple: new Date(1998, 21, 9)
 };
 
 // Funcion que genera el calculo de la edad
